@@ -1,0 +1,17 @@
+{
+    "extends": "../../tsconfig.settings.json",
+    "compilerOptions": {
+        "outDir": "./dist/cjs",
+        "rootDir": "./src",
+        "baseUrl": ".",
+        "paths": {
+            "@atao60/demo-ts-references-monorepo-package-01": ["../package-1"]
+        }
+    },
+    "references": [
+        {
+            "path": "../package-1"
+        }
+    ],
+    "exclude": ["dist"]
+}

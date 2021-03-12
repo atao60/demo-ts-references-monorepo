@@ -1,0 +1,10 @@
+{
+    "name": "@atao60/demo-ts-references-monorepo-package-02",
+    "version": "0.0.0",
+    "description": "Example package 2",
+    "main": "dist/cjs/index.js",
+    "license": "MIT",
+    "dependencies": {
+        "@atao60/demo-ts-references-monorepo-package-01": "0.0.0"
+    }
+}
