@@ -1,0 +1,16 @@
+{
+    "name": "@atao60/demo-ts-references-monorepo",
+    "version": "0.0.1",
+    "license": "MIT",
+    "private": true,
+    "description": "Example of Typescript Project References Monorepo",
+    "author": "Pierre Raoul <atao60.dev@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/atao60/demo-ts-references-monorepo.git"
+    },
+    "bugs": {
+        "url": "https://github.com/atao60/demo-ts-references-monorepo/issues"
+    },
+    "homepage": "https://github.com/atao60/demo-ts-references-monorepo#readme"
+}
