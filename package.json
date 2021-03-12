@@ -38,7 +38,8 @@
     "changeset": "changeset",
     "lint": "eslint .",
     "verify": "yarn build && yarn test && yarn lint",
-    "test": "jest"
+    "test": "jest",
+    "packages:version": "changeset version"
   },
   "workspaces": [
     "packages/*"

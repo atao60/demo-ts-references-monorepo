@@ -1,6 +1,6 @@
 {
   "name": "@atao60/demo-ts-references-monorepo-package-01",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Example package 1",
   "main": "dist/cjs/index.js",
   "license": "MIT",
