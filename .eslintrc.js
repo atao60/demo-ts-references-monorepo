@@ -4,7 +4,8 @@ module.exports = {
         node: true
     },
     extends: [
-        'airbnb-base'
+        'airbnb-base',
+        'plugin:jest/recommended'
     ],
     parser: '@typescript-eslint/parser',
     parserOptions: {
@@ -20,7 +21,8 @@ module.exports = {
         }
     },
     plugins: [
-        '@typescript-eslint'
+        '@typescript-eslint',
+        'jest'
     ],
     rules: {
         'import/prefer-default-export': 'off',

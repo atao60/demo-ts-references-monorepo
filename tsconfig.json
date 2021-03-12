@@ -13,5 +13,8 @@
       "path": "./packages/package-2/tsconfig.esm.json"
     }
   ],
-  "files": []
+  "files": [],
+  "compilerOptions": {
+    "resolveJsonModule": true
+  }
 }
